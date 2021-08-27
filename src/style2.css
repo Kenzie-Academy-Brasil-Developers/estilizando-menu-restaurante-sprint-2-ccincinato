@@ -18,6 +18,7 @@ body{
 /* Use the 'Bungee Inline' font at 46px and lighter weight for the restaurant name. */
 
 h1{
+    font-weight: lighter;
     font-size: 46px;
     font-family: 'Bungee Inline';
 }
